@@ -1,20 +1,8 @@
-<<<<<<< HEAD
-# uts_zahrajane
+# Aplikasi Jadwal Kuliah dan Kegiatan Mahasiswa Adaptif & Interaktif<br>
+<h2>Mobile Device : iPhone 13 Pro Max</h2><br>
+<img src ="https://github.com/user-attachments/assets/b4a0085a-5586-4708-bac1-ada453e91f25" width= "350px"><br>
+<img src ="https://github.com/user-attachments/assets/a20bf791-123a-4203-b84d-9fa830625b56" width= "350px"><br>
+<h2>Tablet Device : iPad Air 4</h2><br>
+<img src="https://github.com/user-attachments/assets/7e524d0f-da0a-4b34-bbda-044af3a1ff5a" width= "350px"><br>
+<h6>Cara Menjalankan Aplikasi : flutter pub get</h6><br>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# uts_pbm
->>>>>>> 3167d8b908ef0a90aae55d4c4cd9d30bda68ee44
