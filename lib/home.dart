@@ -10,7 +10,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   List<Map<String, dynamic>> kegiatan = [
     {'nama': 'Submit Journal', 'tanggal': 'January 7, 2025', 'selesai': true},
-    {'nama': 'Work on Data Analyst Project for DQFashion', 'tanggal': 'April 27, 2025', 'selesai': true},
+    {'nama': 'Work on Data Analyst Project', 'tanggal': 'April 27, 2025', 'selesai': true},
     {'nama': 'Write an Article on Medium', 'tanggal': 'May 4, 2025', 'selesai': false},
   ];
 

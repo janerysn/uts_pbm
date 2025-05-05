@@ -105,7 +105,7 @@ class _MainPageState extends State<MainPage> {
       },
       destinations: const [
         NavigationDestination(icon: Icon(Icons.home), label: 'Home'),
-        NavigationDestination(icon: Icon(Icons.schedule), label: 'Jadwal'),
+        NavigationDestination(icon: Icon(Icons.schedule), label: 'Schedule'),
         NavigationDestination(icon: Icon(Icons.person), label: 'Profile'),
         NavigationDestination(icon: Icon(Icons.book), label: 'Books'),
       ],
